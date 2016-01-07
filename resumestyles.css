@@ -1,24 +1,47 @@
 body{
-background-color: #ffff00
+background-color: #ffff00;
+border: 10px solid #FF3300;
+border-radius: 4px;
+font-family: "Comic Sans MS";
 }
 h1{
-
+font-size: 60px;
+text-align: center;
 }
 h2{
-
+text-align: left;
 }
 p{
 
 }
 .skillz{
-
+font-family: fantasy;
+font-size: 45px;
+color: #00FFFF;
 }
 .big{
-
+border-bottom: 3px solid #7FFF00;
+border-top: 7px solid #7fff00;
+border-radius: 10px;
 }
 .bad{
-
+font-weight: bolder;
+font-style: oblique;
 }
 .feels{
+font-family: cursive;
+color: #A62A2A;
+}
+.brown{
+  color: #A62A2A;
+  font-size: 30px;
+}
 
+img{
+  float: left;
+}
+.sidebar{
+  width: 25%;
+  float: right;
+  background-color: #CC00FF;
 }
